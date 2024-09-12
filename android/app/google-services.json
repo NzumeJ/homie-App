@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702265010784",
+    "project_id": "homie-6a367",
+    "storage_bucket": "homie-6a367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702265010784:android:105c763634b57bfc34f105",
+        "android_client_info": {
+          "package_name": "com.example.homie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJIPVun6D5JDnHxvrtlUzJqwiBxdOUXeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
